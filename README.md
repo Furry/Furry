@@ -16,5 +16,5 @@ Most of my experience is in Web Scraping / Web Automation, though I've done a lo
 ### Here are some useful links while you're here!
 My Discord: Lamb#0621<br>
 My Email: auroraspalace2@gmail.com<br>
-My Telegram: @furorum
-My OSU account: @Axolotl
+My Telegram: @furorum<br>
+My OSU account: @Axolotl<br>
