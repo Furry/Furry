@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Furry" alt="Furry" /> </p>
+
 # Hiya!
 
 ## I'm Lamb, a back-end developer.
@@ -18,3 +20,5 @@ My Discord: Lamb#0621<br>
 My Email: auroraspalace2@gmail.com<br>
 My Telegram: @furorum
 My OSU account: @Axolotl
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furry&layout=compact&hide=html" alt="Furry" /></p>
