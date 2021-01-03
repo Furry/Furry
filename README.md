@@ -2,8 +2,7 @@
 
 # Hiya!
 
-## I'm Lamb, a back-end developer.
-(How could I give up such a lovely github name though)
+## I'm Ender, a back-end developer.
 
 ### My stack, sorted by proficiency:
 - TypeScript / NodeJS
