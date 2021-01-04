@@ -10,7 +10,7 @@
 - Rust
 - Java
 - C#
-- LUA
+- LUA (sadly)
 
 Most of my experience is in Web Scraping / Web Automation, though I've done a lot of back-end API design and mobile reverse engineering.
 
