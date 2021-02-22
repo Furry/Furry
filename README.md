@@ -24,5 +24,5 @@ My OSU account: @Axolotl
 
 <div style="text-align: center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furry&layout=compact&hide=html" alt="Furry" /></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=will15ham&show_icons=true&theme=tokyonight" alt="Furry2" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Furry&show_icons=true&theme=tokyonight" alt="Furry2" /></p>
 </div>
