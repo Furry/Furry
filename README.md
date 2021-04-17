@@ -2,8 +2,6 @@
 
 # Hiya!
 
-## I'm Ender, a back-end developer.
-
 ### My stack, sorted by proficiency:
 - TypeScript / NodeJS
 - Python3
