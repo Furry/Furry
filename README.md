@@ -15,7 +15,7 @@ Most of my experience is in Web Scraping / Web Automation, though I've done a lo
 I'm open to almost all types of programming commissions except front-end, and if you have requests for API wrappers or apps to reverse engineer, just let me know, and I'll probably do it!
 
 ### Here are some useful links while you're here!
-My Discord: Ether#0621<br>
+My Discord: Kuru#0621<br>
 My Email: auroraspalace2@gmail.com<br>
 My Telegram: @furorum
 
