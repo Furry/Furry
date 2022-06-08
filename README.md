@@ -55,7 +55,6 @@
 </div>
 
 <div>
-  <hr>
     <h2>
       About :
     </h2>
