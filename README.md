@@ -4,6 +4,9 @@
     <img src="https://avatars.githubusercontent.com/u/22103494?v=4" width=200>
     <br>
   </div>
+  <a href="https://discord.gg/tamVs2Ujrf">
+    <img src="https://discordapp.com/api/guilds/769020183540400128/widget.png?style=banner2" alt="Discord Banner 2"/>
+  </a>
   <div id="badges">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/badge/TRELLO-trello?style=for-the-badge&logo=trello" alt="Trello Badge" />
