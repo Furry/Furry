@@ -74,7 +74,7 @@
       <li>⚡ I specialize in API Development, Mobile-App Reverse Engineering, & request based web automation for the Sneaker & Reselling community, having experience bypassing SSL Pinning, Akamai, PerimeterX. If you're interested in any of these services, feel free to message me on a platform above for a price quote.
         <ul>
           <li>Reverse Engineered Byte App <a href="https://github.com/furry/byte-api">Byte API</a>
-          <li>Reverse Engineered App <a href="https://github.com/furry/byte-api">Amino</a>
+          <li>Reverse Engineered App <a href="https://github.com/furry/amino-api">Amino</a>
           <li>WIP Reverse Engineering of the <a href="https://github.com/furry/tiktok">TikTok API</a></li>
         </ul>
       </li>
