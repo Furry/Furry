@@ -67,7 +67,7 @@
       <li>📝 If you're looking to contact me, I'm available on
         <ul>
           <li>Twitter: <a href="https://twitter.com/auroraspalace">@Auroraspalace</a></li>
-          <li>Discord: <a href="https://discord.gg/tamVs2Ujrf">Kuru#0621</a></li>
+          <li>Discord: <a href="https://discord.gg/tamVs2Ujrf">@kuruwastaken</a></li>
           <li>Email: <a href="mailto:me@naminginprogress.com">business@naminginprogress.com</a>, <a href="mailto:me@naminginprogress.com">personal@naminginprogress.com</a></li>
         </ul>
       </li>
