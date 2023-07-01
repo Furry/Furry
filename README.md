@@ -61,7 +61,7 @@
     <h2>
       About :
     </h2>
-    Hiya! I'm a Full Stack, primarily Backend Developer in my third year of college studying Computer Science @ New College of Florida.
+    Hiya! I'm a Full Stack, primarily Backend Developer.
     <ul>
       <li>If you came here searching if this username exists, it does! And no, it's not for sale ❤️</li>
       <li>📝 If you're looking to contact me, I'm available on
